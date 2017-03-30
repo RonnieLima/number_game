@@ -1,2 +1,2 @@
 # Simple number guessing game
-# Generated computer responses deping on useres guess
+# Generated computer responses deping on users guess
